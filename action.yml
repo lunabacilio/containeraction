@@ -1,4 +1,4 @@
-name 'my first container action'
+name: 'my first container action'
 description: 'a cloud guru'
 author: 'Jose Luna'
 inputs:
